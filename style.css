@@ -1,0 +1,29 @@
+.btn
+{
+    height: 5%;
+    width: 10%;
+    border-style:inherit;
+    border-radius: 9pt;
+    font-size: 24;
+
+}
+#container
+{
+    background-color:lightslategray;
+    height: 95%;
+    width: 70%;
+    margin-left:15%;
+    margin-right: 20%;
+}
+#ans1
+{
+    font-size: 26px;
+}
+#ans2
+{
+    font-size: 26px;
+}
+#ans3
+{
+    font-size: 26px;
+}
